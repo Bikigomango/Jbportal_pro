@@ -1,8 +1,10 @@
-# React + Vite
+1 ---->in app.jsx , do copy your supabase url and api key
+2 ----> and do create a table in your supabase namely "todoList"
+3 ----> and inside the talbe create column "id" and "text"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+NOTE -- i have not pushed the node_modules ---> do "npm i" 
+and install other dependencies according to your console suggesting
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+--------   and finally we are good to go ---------     8/3/2024
